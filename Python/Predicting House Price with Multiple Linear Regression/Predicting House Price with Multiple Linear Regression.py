@@ -61,7 +61,7 @@ from IPython.display import display
 from azure.storage.blob import BlobServiceClient
 import pandas as pd  # Used to build and handle data tables
 import io  # Helps read data in memory
-connect_str = "DefaultEndpointsProtocol=https;AccountName=level5data;AccountKey=cWgxWhPELQdrW0sIgA/eXM8/k9+xdaELukN8sg5imfhm4wVIJQFmypEph/Ppy500v41mYT+iCBbC+AStsfHbAQ==;EndpointSuffix=core.windows.net"
+connect_str = "DefaultEndpointsProtocol=https;AccountName=xxx;AccountKey=xxx"
 container_name = "businesscases"
 blob_name = "house_sales_prediction.csv"
 
@@ -70,7 +70,7 @@ blob_name = "house_sales_prediction.csv"
 
 
 # Cloud Login Details ---
-connect_str = "DefaultEndpointsProtocol=https;AccountName=level5data;AccountKey=cWgxWhPELQdrW0sIgA/eXM8/k9+xdaELukN8sg5imfhm4wVIJQFmypEph/Ppy500v41mYT+iCBbC+AStsfHbAQ==;EndpointSuffix=core.windows.net"
+connect_str = "DefaultEndpointsProtocol=https;AccountName=xxx;AccountKey=xxx"
 container_name = "businesscases"  # The folder name
 blob_name = "house_sales_prediction.csv"  # The file name
 
