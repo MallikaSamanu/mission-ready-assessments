@@ -7,21 +7,22 @@ A professional collection of relational database solutions, complex data queries
 ## 📁 Repository Structure
 
 ```text
-├── 💻 Module-3-Tech-Jobs-Analysis/
-│   ├── 📋 M3 - Question Sheet.xlsx       # Business requirements and assignment prompts
-│   ├── 📊 M3 - jobs_data.xlsx            # Raw employment dataset (Excel source)
-│   └── 💻 M3_Assessments.sql             # SQL scripts (DDL schemas, aggregate joins, filters)
+├── 💻 Tech Jobs Market Analysis/
+|   |──Source Data/
+│   |  ├── 📊 jobs_data.csv               # Raw employment dataset (csv source)
+│   └── 💻 MySQL_Scripts.sql                # SQL scripts (DDL schemas, aggregate joins, filters)
 │
-└── 💻 Module-4-Video-Games-Revenue/
-    ├── 📋 M4 - Question Sheet.xlsx       # Business requirements and assignment prompts
-    ├── 📊 games_revenue.csv              # Financial performance data
-    ├── 📊 games_reviews.csv              # User and critic review metrics
-    └── 💻 m4_assessment.sql              # SQL scripts (Subqueries, Window functions, CTEs)
+└── 💻 Video Games Revenue Analysis/
+|   |──Source Data/
+      ├── 📊 games_description.csv          # Games data
+      ├── 📊 games_revenue.csv              # Financial performance data
+      ├── 📊 games_reviews.csv              # User and critic review metrics
+    └── 💻 MySQL_Scripts.sql               # SQL scripts (Subqueries, Window functions, CTEs)
 ```
 
 ---
 
-## 💼 Module 3: Tech Jobs Market Analysis
+## 💼 Tech Jobs Market Analysis
 * **Objective:** Clean, structure, and analyze global employment datasets to identify hiring trends and salary distributions across tech roles.
 * **Core Skills Used:** 
   * Table Creation (DDL) and Primary/Foreign Key definitions.
@@ -30,7 +31,7 @@ A professional collection of relational database solutions, complex data queries
 
 ---
 
-## 🎮 Module 4: Video Games Revenue Analysis
+## 🎮 Video Games Revenue Analysis
 * **Objective:** Merge multiple disparate datasets (revenue, critic reviews, titles) to discover which video game genres yield the highest return on investment.
 * **Core Skills Used:**
   * Complex aggregations (`SUM`, `AVG`, `COUNT`) grouped by categories.
