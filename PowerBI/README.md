@@ -22,24 +22,29 @@ PowerBI/
 
 ## 📊 Dashboard Pages & Insights
 
-### 1. [Main Executive Dashboard](PowerBI\RetailSalesDashboard.png)
+### 1. Main Executive Dashboard
+![](RetailSalesDashboard.png)
 * **Visual Asset:** `RetailSalesDashboard.png`
 * **Description:** High-level summary of total sales, profit margins, and key performance indicators (KPIs) for executive stakeholders.
 
 ### 2. Year-over-Year (YOY) Comparison
+![](YOYComparision.png)
 * **Visual Asset:** `YOYComparision.png`
 * **Description:** Tracks seasonal changes and growth metrics compared directly to the same period in previous fiscal years.
 
 ### 3. Predictive Forecasting
+![](Forecast.png)
 * **Visual Asset:** `Forecast.png`
 * **Description:** Utilizes Power BI's built-in time-series forecasting models to project future retail demand and sales pipelines.
 
 ### 4. Product Breakdown & Performance
+![](ProductBreakdown.png)
 * **Visual Asset:** `ProductBreakdown.png` & `Distribution.png`
 * **Description:** Segmented analysis examining top-performing inventory categories, regional sales distribution, and SKU velocities.
 
 ### 5. Multi-Dataset Trend Comparison
-* **Visual Asset:** `DatasetsTrendComparision.png` & `SSecondaryDatasetComparision.png`
+![](DatasetsTrendComparision.png) ![](SecondaryDatasetComparision.png)
+* **Visual Asset:** `DatasetsTrendComparision.png` & `SecondaryDatasetComparision.png`
 * **Description:** Auditing and variance analysis comparing primary retail data against secondary reference datasets to ensure data pipeline integrity.
 
 ---
