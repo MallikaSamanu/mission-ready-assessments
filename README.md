@@ -16,13 +16,14 @@ This repository is organized into specialized domain tracks:
 
 ### 1. PowerBI (Business Intelligence)
 Focused on data modeling, DAX scripting, and user-centric dashboard design.
-*   **Retail Sales Performance:** Interactive tracking of commercial revenue streams ![](PowerBI\RetailSalesDashboard.png).
-*   **Year-over-Year (YOY) & Trend Analysis:** Statistical forecasting and comparative growth benchmarking ![](PowerBI\YOYComparision.png)
-![](PowerBI\DatasetsTrendComparision.png)
-![](PowerBI\Forecast.png)
+*   **Retail Sales Performance:** Interactive tracking of commercial revenue streams
+  ![](PowerBI/RetailSalesDashboard.png).
+*   **Year-over-Year (YOY) & Trend Analysis:** Statistical forecasting and comparative growth benchmarking ![](PowerBI/YOYComparision.png)
+![](PowerBI/DatasetsTrendComparision.png)
+![](PowerBI/Forecast.png)
 *   **Product Segmentation:** Demographic and distribution analysis for inventory optimization 
-![](PowerBI\ProductBreakdown.png)
-![](PowerBI\Distribution.png)
+![](PowerBI/ProductBreakdown.png)
+![](PowerBI/Distribution.png)
 
 ### 2. Python (Data Science & Analytics)
 Focused on algorithmic problem solving, statistical modeling, and data manipulation.
